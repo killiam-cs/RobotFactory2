@@ -8,7 +8,7 @@ public class Robot {
     public String shape;
     public boolean canSpeak;
 
-    // constructor method
+    // constructor method, constructs my robots
     public Robot(char pSize, int pRed, int pGreen, int pBlue, String pShape, boolean pCanSpeak){
         size = pSize;
         red = pRed;
